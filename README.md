@@ -8,17 +8,17 @@ CCRM is a feature-rich academic management system that demonstrates advanced Jav
 
 ## How to Run
 
-• **JDK Version**: Requires Java SE 17 or higher (developed on JDK 21).
+- **JDK Version**: Requires Java SE 17 or higher (developed on JDK 21).
 
-• **Clone the repository**:
+- **Clone the repository**:
 
 ```
-git clone
+git clone https://github.com/Kratos676/CCRM
 ```
 
-• **Compile & Run**: Open the project in an IDE like Eclipse and run the `edu.ccrm.CampusCourseRecordsManager` class.
+- **Compile & Run**: Open the project in an IDE like Eclipse and run the `edu.ccrm.CampusCourseRecordsManager` class.
 
-• **Enable Assertions**: To run with assertions enabled (for the demo), use the VM argument `-ea`.
+- **Enable Assertions**: To run with assertions enabled (for the demo), use the VM argument `-ea`.
 
 ## Java Evolution Timeline
 
