@@ -161,7 +161,7 @@ _Course management and advanced features in action_
 #### 6. Backup and Data Management
 
 ![Backup Feature](screenshots/06_backup.png)
-_Backup functionality and data export/import features_
+
 
 ## Eclipse IDE Setup
 
