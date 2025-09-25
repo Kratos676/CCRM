@@ -1,0 +1,6 @@
+course_code,title,credits,department,semester,instructor_id,max_capacity
+CS101-A,Introduction to Programming,3,Computer Science,FALL,INS001,30
+CS201-A,Data Structures,4,Computer Science,SPRING,INS002,25
+MATH101-A,Calculus I,4,Mathematics,FALL,INS003,40
+PHYS101-A,General Physics,3,Physics,FALL,INS004,35
+CHEM101-A,General Chemistry,3,Chemistry,SPRING,INS005,30

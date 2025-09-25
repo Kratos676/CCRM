@@ -1,0 +1,6 @@
+instructor_id,emp_id,first_name,last_name,email,department,designation
+INS001,EMP001,Dr. Michael,Anderson,m.anderson@university.edu,Computer Science,Professor
+INS002,EMP002,Dr. Sarah,Davis,s.davis@university.edu,Computer Science,Associate Professor
+INS003,EMP003,Dr. Robert,Miller,r.miller@university.edu,Mathematics,Professor
+INS004,EMP004,Dr. Lisa,Garcia,l.garcia@university.edu,Physics,Assistant Professor
+INS005,EMP005,Dr. David,Martinez,d.martinez@university.edu,Chemistry,Associate Professor

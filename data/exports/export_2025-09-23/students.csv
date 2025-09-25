@@ -1,0 +1,6 @@
+student_id,reg_no,first_name,last_name,email,department,semester,gpa,status,enrollment_date
+STU001,2023CS001,John,Doe,john.doe@university.edu,Computer Science,3,0.00,ACTIVE,2025-09-23
+STU002,2023CS002,Jane,Smith,jane.smith@university.edu,Computer Science,3,0.00,ACTIVE,2025-09-23
+STU003,2023MATH001,Alice,Johnson,alice.johnson@university.edu,Mathematics,2,0.00,ACTIVE,2025-09-23
+STU004,2023PHYS001,Bob,Wilson,bob.wilson@university.edu,Physics,4,0.00,ACTIVE,2025-09-23
+STU005,2023CHEM001,Carol,Brown,carol.brown@university.edu,Chemistry,1,0.00,ACTIVE,2025-09-23

@@ -1,0 +1,30 @@
+CCRM System Health Check Report
+===============================
+Generated: 2025-09-25T18:17:00.260417800
+
+Directory Status:
+-----------------
+✓ Data Directory: EXISTS (7 files)
+✓ Export Directory: EXISTS (2 files)
+✓ Backup Directory: EXISTS (4 files)
+
+Disk Space:
+-----------
+Total Space: 702.6 GB
+Used Space: 141.4 GB
+Available Space: 561.2 GB
+Usage: 20.1%
+
+Backup Status:
+--------------
+Total Backups: 4
+Latest Backup: ccrm_backup_2025-09-23_213701.zip
+Days Since Last Backup: 1
+
+System Properties:
+------------------
+Java Version: 21.0.8
+Operating System: Windows 11 10.0
+Available Processors: 32
+Total Memory: 252.0 MB
+Free Memory: 245.1 MB
