@@ -396,6 +396,5 @@ This project demonstrates comprehensive Java SE programming concepts as required
 **Author**: Yash Nilesh Deshpande  
 **Course**: (CSE2006) Programming in Java  
 **Institution**: Vellore Institute of Technology, Bhopal  
-**Version**: 1.0  
 **License**: Academic Use Only  
 **Last Updated**: September 2025
